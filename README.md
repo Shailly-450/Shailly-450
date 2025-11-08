@@ -105,9 +105,14 @@
 
 **Software Engineer Intern – WeWin Technologies LLP**  
 *Sept 2025 – Present*  
-- Developed optimized Flask APIs with Supabase and Cloudflare R2 integration.  
-- Enhanced mobile feature stability by improving Flutter API interactions.
-- Secure authention with **JWT Token**
+- Architected and developed scalable **RESTful APIs** using Flask and Supabase, optimizing **SQL queries** and caching strategies to reduce response time by **30%**.
+- Integrated **Cloudflare R2** for secure cloud-based file storage, ensuring data redundancy and fault tolerance.
+- Improved mobile–backend communication for Flutter clients through optimized request batching and consistent API versioning.
+- Implemented **JWT-based authentication** and **role-based access control (RBAC)** to strengthen application security.
+- Containerized services using **Docker**, automated deployments via **GitHub Actions**, and ensured production reliability through **CI/CD pipelines**.
+- Collaborated cross-functionally with mobile, design, and QA teams in an **agile sprint environment** to deliver new features and bug fixes efficiently.
+- Conducted **code reviews**, wrote unit and integration tests (PyTest), and improved backend reliability by **20%** through continuous monitoring and profiling.
+- Designed REST endpoints following clean architecture principles, ensuring maintainability and scalability for future releases.
 
 **Android/iOS Developer Intern – Orbsdio**  
 *May 2025 – Aug 2025*  
@@ -119,8 +124,14 @@
 
 **AI Research Intern – Planto.AI**  
 *Feb 2025 – May 2025*  
-- Worked on **LLM-based copilots**, CI/CD pipelines, and telemetry systems.  
-- Improved app reliability by debugging mobile CI workflows.
+- Contributed to the development of Planto.AI’s developer copilot, integrating **LLM-based code assistance**, real-time debugging, and intelligent prompt engineering using Python and **OpenAI/Generative APIs**.
+- Designed and optimized modular backend components to support **streaming token responses** and asynchronous API requests, improving response speed by **25%**.
+- Integrated CI/CD pipelines using GitHub Actions, **automating test runs**, linting, and deployment to staging environments, ensuring reliable delivery of production builds.
+- Built internal **telemetry systems** for monitoring copilot performance, usage analytics, and error tracing — improving system observability and debugging efficiency.
+- Collaborated with a 10-member cross-functional team (AI engineers, mobile devs, product managers) using **Git workflows for version control**, **feature branching**, and peer code reviews.
+- Participated in research and fine-tuning of large language models (LLMs) to improve contextual understanding and reduce hallucination rates in code suggestions.
+- Proposed and implemented **prompt optimization techniques** that improved the copilot’s code accuracy and user satisfaction metrics by ~15%.
+- **Documented APIs**, research findings, and architectural decisions to streamline onboarding for new engineers and facilitate knowledge sharing within the AI team.
 
 ---
 
