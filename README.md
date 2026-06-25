@@ -2,7 +2,7 @@
 
 🎓 **B.Tech in Computer Science** @ IIIT Vadodara (2022–2026)  
 💻 Passionate about building scalable full-stack and AI-powered applications.  
-🚀 Exploring Software Engineering, Mobile App Development, and Machine Learning.
+🚀 Software Engineer focused on C++, Linux, Computer Vision, Distributed Systems, and Enterprise AI Platforms.
 
 ---
 
@@ -16,49 +16,149 @@
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack
 
-### 💻 Languages  
+### 💻 Programming Languages
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-### 🧩 Frontend & Mobile  
+### ⚡ Systems Programming & Linux
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GNU Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![GDB](https://img.shields.io/badge/GDB-D22128?style=for-the-badge)
+![Valgrind](https://img.shields.io/badge/Valgrind-000000?style=for-the-badge)
+![STL](https://img.shields.io/badge/STL-00599C?style=for-the-badge)
+![Multithreading](https://img.shields.io/badge/Multithreading-0A66C2?style=for-the-badge)
+
+**Core Skills**
+- Modern C++ (C++11/14/17)
+- STL & Data Structures
+- Memory Management
+- File I/O Optimization
+- Process & Thread Management
+- Performance Profiling
+- Debugging & Root Cause Analysis
+- Core Dump Analysis
+- Design Patterns
+
+---
+
+### 📸 Computer Vision & Image Processing
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+**Core Skills**
+- Image Processing Pipelines
+- Camera Calibration
+- Image Differencing
+- Image Enhancement
+- Noise Reduction
+- Performance Optimization
+- Vision System Debugging
+
+---
+
+### 🌐 Backend Development
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+
+**Core Skills**
+- RESTful API Design
+- Authentication & Authorization
+- JWT Security
+- Role-Based Access Control
+- Microservices
+- Clean Architecture
+- API Optimization
+
+---
+
+### 📱 Mobile Development
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 
+**Core Skills**
+- Flutter (MVVM)
+- Cross Platform Development
+- Real-Time Applications
+- Socket Programming
+- State Management
+- Mobile Performance Optimization
+
 ---
 
-### 🧱 Backend & Databases  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+### 🗄️ Databases & Storage
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ---
 
-### ⚙️ DevOps & Tools  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-0A66C2?style=for-the-badge&logo=github&logoColor=white)
+### 🤖 AI / Machine Learning / LLMs
+
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**Core Skills**
+- Generative AI
+- LLM Integration
+- Prompt Engineering
+- AI Copilots
+- NLP
+- RAG Systems
+- Model Evaluation
 
 ---
+
+### ☁️ DevOps & Cloud
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-0A66C2?style=for-the-badge&logo=github&logoColor=white)
+![Cloudflare R2](https://img.shields.io/badge/Cloudflare_R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+**Core Skills**
+- Dockerization
+- CI/CD Pipelines
+- Deployment Automation
+- Monitoring & Logging
+- Cloud Storage
+- Version Control
+
+---
+
+### 🏗️ Software Engineering
+
+**Engineering Practices**
+- System Design
+- Distributed Systems
+- Software Architecture
+- Performance Engineering
+- Agile Development
+- Unit Testing
+- Integration Testing
+- Code Reviews
+- Technical Documentation
+
+
 ## 🚀 Featured Projects  
 
 ### 🧩 [Interview-Ready](https://github.com/Shailly-450/Interview-Ready)  
@@ -103,8 +203,15 @@
 
 ## 🧑‍💼 Experience  
 
+**Software Development Engineer Intern (L3) - Vehant Technologies** 
+*Jan 2026 – Present*
+- Optimized performance-critical C++ backend modules in production computer vision pipelines, reducing end-to-end processing latency by 25–30% through improved memory usage and file I/O efficiency.
+- Profiled and optimized data parsing and processing logic for large image and dump files, improving throughput and reducing memory footprint under peak workloads.
+- Integrated OpenCV-based image processing workflows (difference operations, calibration, denoising) into backend pipelines used in real-world deployments.
+- Debugged and resolved segmentation faults, memory leaks, and runtime issues in Linux environments, significantly improving system stability and reliability.
+
 **Software Engineer Intern – WeWin Technologies LLP**  
-*Sept 2025 – Present*  
+*Aug 2025 – Oct 2025*  
 - Architected and developed scalable **RESTful APIs** using Flask and Supabase, optimizing **SQL queries** and caching strategies to reduce response time by **30%**.
 - Integrated **Cloudflare R2** for secure cloud-based file storage, ensuring data redundancy and fault tolerance.
 - Improved mobile–backend communication for Flutter clients through optimized request batching and consistent API versioning.
